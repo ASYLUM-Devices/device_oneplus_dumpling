@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/gzosp_dumpling.mk
+    $(LOCAL_DIR)/asylum_dumpling.mk
